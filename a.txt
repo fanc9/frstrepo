@@ -1,6 +1,11 @@
 this my frst code change
+<<<<<<< HEAD
 add to the rrepo
 aaaaaaaaaaaaaa
 aaaaaaaaaaaaaaaa
 this my second change
 dshfksdsd
+=======
+this is second code change
+this is third change
+>>>>>>> 2563a2398ba0d03303dde6f6a789d42d20174288
